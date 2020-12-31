@@ -10,7 +10,7 @@ if you do not have it installed already.
 Add the following to your .zimrc:
 
 ``` shell
-zmodule cowboyd/zimfw-volta
+zmodule cowboyd/zimfw-volta --branch v1
 ```
 
 Then run:
