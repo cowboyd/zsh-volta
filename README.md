@@ -11,10 +11,10 @@ Add the following to your zsh plugin manager. for example:
 
 ``` shell
 # antigen
-antigen bundle cowboyd/zsh-volta
+antigen bundle cowboyd/zsh-volta --branch v1
 
 # zim
-zmodule cowboyd/zsh-volta --branch v1
+zmodule cowboyd/zsh-volta
 ```
 
 Volta will be installed and configured for future shell sessions.
