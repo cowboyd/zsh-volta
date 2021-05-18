@@ -15,7 +15,13 @@ antigen bundle cowboyd/zsh-volta --branch v1
 
 # zim
 zmodule cowboyd/zsh-volta
+
+# zplug
+zplug "cowboyd/zsh-volta", from:github
 ```
+
+
+
 
 Volta will be installed and configured for future shell sessions.
 
